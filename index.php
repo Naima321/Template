@@ -66,7 +66,7 @@ include 'nav.php';
                               <div class="col-md-5">
                                  <div class="creative">
                                     <h1>Spa <br>Center </h1>
-                                    <p>commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint</p>
+                                    <p>commodo consequat. Duis aute irure dolor in  itreprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint</p>
                                     <a class="read_more" href="Javascript:void(0)">Contact us</a>
                                     <a class="read_more" href="Javascript:void(0)">Read More</a>
                                  </div>
